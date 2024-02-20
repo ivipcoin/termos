@@ -35,7 +35,7 @@ Este Termo de Comprometimento Financeiro (doravante denominado "Termo") é celeb
         
          - **Depósito na Conta**: O Mutuário pode depositar o valor correspondente à fatura diretamente em sua conta na plataforma se caso não houver saldo para efetuar o pagamento da fatura.
            
-            - **Pagamento na Linha de Crédito**: O Mutuário deve efetuar o pagamento na linha de crédito na plataforma onde são encontrados os contratos dos empréstimos realizados.
+         - **Pagamento na Linha de Crédito**: O Mutuário deve efetuar o pagamento na linha de crédito na plataforma onde são encontrados os contratos dos empréstimos realizados.
               
       * Em caso de atraso na fatura:
         
