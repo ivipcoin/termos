@@ -6,7 +6,7 @@ Este Termo de Comprometimento Financeiro (doravante denominado "Termo") é celeb
 
 ### CARACTERIZAÇÃO
 
-* **Mutuante**: *IVIPCOIN LTDA* de CNPJ **49.718.656/0001-33**, que empresta valores financeiros.
+* **Mutuante**: *IVIPCOIN LTDA* de CNPJ **49.718.656/0001-33**, que libera valores financeiros.
 * **Mutuário**: pessoa, cliente das plataformas **IVIPCOIN** e **IVIPBANK** que recebe a quantia financeira emprestada.
 
 ### TERMO
