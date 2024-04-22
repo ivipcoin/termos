@@ -2,6 +2,27 @@
 
 Este Termo de Comprometimento Financeiro (doravante denominado "Termo") é celebrado a partir do momento em que as partes realizarem quaisquer atividades financeiras na plataforma de acordo com os seguintes serviços e acordos a seguir:
 
+## PARTE ENVOLVENTE CRIAÇÃO DAS CARTEIRAS DIGITAIS
+
+### CARACTERIZAÇÃO
+
+* **Usuário**: doravante denominado "*Usuário*", pessoa física ou jurídica que utiliza a plataforma **IVIPCOIN**.
+* **Empresa/Instituição**: doravante denominada "*Empresa*", inscrita no CNPJ **49.718.656/0001-33**, representada neste ato por *IVIPCOIN LTDA*, que disponibiliza a plataforma de serviços financeiros.
+
+### TERMO
+
+Considerando que a **Empresa** oferece serviços de criação de carteiras digitais, sejam elas para banco digital ou corretora de criptomoedas;
+
+Considerando que o **Usuário** deseja utilizar os serviços oferecidos pela **Empresa** e está ciente dos termos e condições estabelecidos para a preservação de seus direitos garantidos por lei;
+
+As partes acordam o presente Contrato de Responsabilidade, mediante as seguintes cláusulas:
+
+1. Termos de Utilização: O **Usuário** declara estar ciente e concordar com os termos estabelecidos nos [***Termos de Serviço e Política de Privacidade***](https://api.ivipcoin.com/v1/term/lgpd_terms/view). Ao clicar em "CONFIRMAR" na criação de qualquer tipo de carteira, seja para banco digital ou corretora de criptomoedas, o **Usuário** estará expressamente concordando com os termos e condições ali expostos.
+2. Sigilo e Uso de Informações: A **Empresa** se compromete a utilizar as informações sigilosas fornecidas pelo **Usuário** única e exclusivamente para as finalidades estabelecidas nos ***Termos de Serviço e Política de Privacidade***. O consentimento do **Usuário** é imprescindível para qualquer utilização ou compartilhamento dessas informações com terceiros.
+3. Autorização Prévia: Nenhuma ação, como movimentações financeiras, será realizada pela **Empresa** em nome do **Usuário** sem a prévia autorização expressa do mesmo. Todas as ações realizadas nas carteiras digitais serão de responsabilidade exclusiva do **Usuário**.
+4. Comunicação e Atendimento: Qualquer dúvida, reclamação ou solicitação referente aos serviços prestados pela **Empresa** deverá ser comunicada por meio do portal de atendimento disponibilizado no site da **Empresa**.
+5. Vigência: Este contrato terá vigência a partir da data de aceitação dos Termos de Serviço e Política de Privacidade e permanecerá em vigor durante a utilização dos serviços oferecidos pela **Empresa**.
+
 ## PARTE ENVOLVENTE AO STAKING
 
 ### CARACTERIZAÇÃO
